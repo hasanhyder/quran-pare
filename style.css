@@ -1,0 +1,71 @@
+/* 
+ @media only screen and ( max-widht: 400px ){
+    img{
+        width:250px ;
+        background-color: yellow;
+    }
+
+ }
+    
+ 
+ @media only screen and ( min-widht:250px ){
+
+    img{
+        width:150px ;
+        background-color: violet;
+    } */
+
+h1{
+    color: red;
+    text-shadow: 20px 10px 15px black;
+    font-size: 5em;
+    /* text-align: center; */
+}
+
+
+
+/* .text-center{
+   
+
+    align-items: center;
+    justify-content: center;
+    min-width:10em;
+    max-width:100% ;
+    color:black;
+    background-color: thistle;
+    columns: red;
+}  */
+.pak{
+ width: 200px ;  
+}
+
+ img{
+    width: 400px;
+    min-width: 5px;
+    max-width: 800px;
+ }
+
+
+
+ 
+    
+.sehri{
+    padding-bottom: 2px;
+
+}
+
+
+.first{
+    text-align: center;
+}
+
+table{
+    justify-content: center;
+    width: 300px;
+    text-align: center;
+    display: table;
+  font-size: 22px;
+  margin-left: 40px;
+ 
+}
+
